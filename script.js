@@ -1,6 +1,6 @@
 function stringChop(str, size) {
   // your code here
-	if (str == null || typeof sif (str == null || typeof str !== "string") {
+	if (str == null || typeof str (str == null || typeof str !== "string") {
     return [];
   }
   if (typeof size !== "number" || !Number.isInteger(size) || size <= 0) {
